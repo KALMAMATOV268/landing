@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+.container {
+  width: 1240px;
+  margin: 0 auto;
+  height: 100%;
+}
+
+.hero {
+  background: url(../4f8273c03b669d7a2a20c6874dd7a19e.png) center/cover;
+  height: 720px;
+}
+
+.logo {
+  color: #fff;
+  font-size: 29px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.nav {
+  margin-left: auto;
+  margin-right: 40px;
+}
+
+.nav-link {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2.5px;
+}
+
+.wrap1 {
+  margin: 0;
+  background: #fff;
+}
